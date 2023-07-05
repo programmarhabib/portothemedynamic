@@ -1,0 +1,6 @@
+ul#mainNav li a:hover {
+    text-decoration: none;
+}
+.sort-destination {
+    overflow: visible;
+}
